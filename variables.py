@@ -8,5 +8,3 @@ print(name)
 name="porsche"
 print(name)
 
-name="mercedes"
-print(name)
