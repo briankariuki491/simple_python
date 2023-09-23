@@ -7,3 +7,7 @@ for number in numbers:
 names="brian.james,collins,cynthia,rebecca,julie"
 for name in names:
     print(name)
+    
+cities="nairobi,johannesburg,capetown,addisababa"
+for city in cities:
+    print(city)
